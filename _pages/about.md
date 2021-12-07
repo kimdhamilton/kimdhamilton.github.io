@@ -6,7 +6,7 @@ permalink: /about/
 
 - Last few years: Decentralized credentialing + identity solutions and blockchain-based architectures
 - Career: scaleable system design, algorithms, and core library/API design and implementation
-- Life: obscure things, math that's on the cutting room floor, and cello
+- Life: delighting in the difficult and arcane; math from the cutting room floor; cello
 
 <h3 style="text-align:left;">Current Role</h3>
 
