@@ -2,17 +2,18 @@
 layout: page
 title: About
 permalink: /about/
----
+--- 
 
-Throughout my career, I've focused on scaleable system design, algorithms, and core library/API design and implementation. 
+- Last few years: Decentralized credentialing + identity solutions and blockchain-based architectures
+- Career: scaleable system design, algorithms, and core library/API design and implementation
+- Life: obscure things, math that's on the cutting room floor, and cello
 
-In more recent years, I've specialized in decentralized credentialing + identity solutions and blockchain-based architectures -- including clarifying when the former and latter should meet.
+<h3 style="text-align:left;">Current Role</h3>
 
-### Current Role
 - Director Identity and Standards, Centre Consortium
 
+<h3 style="text-align:left;">Recent Activities</h3>
 
-### Recent Activities
 - Architect [Digital Credentials Consortium](https://digitalcredentials.mit.edu/) at [MIT Open Learning](https://openlearning.mit.edu/)
 	- DCC is a multi-university, international effort designing the future of academic credentials. 
 	- Our goal is to enable interoperable, standards-based credentials that put learners in control of their data.
@@ -22,7 +23,7 @@ In more recent years, I've specialized in decentralized credentialing + identity
 - Guest Editor, [IEEE Dawn of the Internet Identity Layer](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/dawn-internet-identity-layer-and)
 - Board [Rebooting Web of Trust](https://www.weboftrust.info/)
 
-### Other Highlights
+<h3 style="text-align:left;">Other Highlights</h3>
 
 - Led design and development of the first open source [Decentralized Identifier (DID) method](https://www.w3.org/TR/did-core/) based on the Bitcoin blockchain, called the Bitcoin Reference (BTCR) DID method. ([BTCR project page](https://www.okimsrazor.com/project/btcr-project/))
 - Co-created [Blockcerts](https://www.blockcerts.org/) with the MIT Media Lab. 
