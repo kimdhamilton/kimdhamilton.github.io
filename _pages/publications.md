@@ -4,24 +4,7 @@ title: Publications and Other Writings
 permalink: /publications/
 ---
 
-<style>
-  <!-- overriding header text align -->
-  h1, h2, h3, h4, h5, h6 {
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: $darkerGray;
-  font-weight: bold;
-
-  line-height: 1.7;
-  margin: 1em 0 15px;
-  padding: 0;
-  text-align: left;
-
-  @include mobile {
-    line-height: 1.4;
-  }
-}
-</style>
-### Greatest Hits
+<h3 style="text-align:left;">Greatest Hits</h3>
 
 - [Applying Self-Sovereign Identity Principles to Interoperable Learning Records](https://www.uschamberfoundation.org/sites/default/files/media-uploads/Applying%20SSI%20Principles%20to%20ILRs%20Report.pdf), US Chamber of Commerce Foundation
 - [Building the digital credential infrastructure for the future](https://digitalcredentials.mit.edu/wp-content/uploads/2020/02/white-paper-building-digital-credential-infrastructure-future.pdf), Digital Credentials Consortium
@@ -30,7 +13,7 @@ permalink: /publications/
 - [The Time for Self-Sovereign Identity is Now: Blockcerts, Decentralized Identifiers, and Verifiable Claims](https://medium.com/learning-machine-blog/the-time-for-self-sovereign-identity-is-now-222aab97041b)
 - [What we learned from designing an academic certificates system on the blockchain](https://medium.com/mit-media-lab/what-we-learned-from-designing-an-academic-certificates-system-on-the-blockchain-34ba5874f196)
 
-### Specs
+<h3 style="text-align:left;">Specs</h3>
 
 - [Presentation Exchange](https://identity.foundation/presentation-exchange)
 - [Universal Wallet Interop Spec](https://w3c-ccg.github.io)
@@ -38,24 +21,24 @@ permalink: /publications/
 - [Use Cases for Decentralized Identifiers, Draft Community Report](https://w3c-ccg.github.io/did-use-cases/)
 - [Modeling Educational Verifiable Credentials](https://w3c-ccg.github.io/vc-ed-models/)
 
-### Technical Writings
+<h3 style="text-align:left;">Technical Papers</h3>
 
 These are mostly Rebooting Web of Trust papers
 
-##### Decentralized Identifiers
+<h5 style="text-align:left;">Decentralized Identifiers</h5>
 
 - [BTCR DID Method Updates](https://medium.com/@kimdhamilton/btcr-did-method-updates-d0fd14386139)
 - [BTCR v0.1 Design Decisions](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/btcr_0_1.pdf)
 - [IPLD as a general pattern for DID documents and Verifiable Claims](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/ipld-did.pdf)
 - [BTCR DID Resolver Specification](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/btcr-resolver.pdf)
 
-##### Decentralized Identity for Educational Use Cases
+<h5 style="text-align:left;">Decentralized Identity for Educational Use Cases</h5>
 
 - [Designing a Recipient-Centric Educational Digital Credential Ecosystem](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/educational-credentialing-ecosystem.md)
 - [Blockcerts -- where we are, and what's next](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/topics-and-advance-readings/blockcerts_roadmap.md)
 - [Open Badges are Verifiable Credentials](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/open-badges-are-verifiable-credentials.pdf)
 - [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/blockcerts-revocation.pdf)
 
-##### Other
+<h5 style="text-align:left;">Signature Suites</h5>
 
 - [Linked Data Signature Alignment](https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/final-documents/ld-signatures.pdf)
