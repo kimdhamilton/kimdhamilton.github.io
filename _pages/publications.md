@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Publications and Other Writings
+permalink: /publications/
+---
 
 # Specs
 
