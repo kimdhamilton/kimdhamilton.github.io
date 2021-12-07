@@ -15,8 +15,8 @@ permalink: /about/
 <h3 style="text-align:left;">Recent Activities</h3>
 
 - Architect [Digital Credentials Consortium](https://digitalcredentials.mit.edu/) at [MIT Open Learning](https://openlearning.mit.edu/)
-	- DCC is a multi-university, international effort designing the future of academic credentials. 
-	- Our goal is to enable interoperable, standards-based credentials that put learners in control of their data.
+	- Multi-university, international effort designing the future of academic credentials. 
+	- Enable interoperable, standards-based credentials that put learners in control of their data.
 - Co-chair [W3C Credentials Community Group](https://www.w3.org/community/credentials/)
 - Steering committee [Decentralized Identity Foundation](https://identity.foundation/)
 - Technical Lead [T3 Innovation Network](https://www.uschamberfoundation.org/t3-innovation) Pilot Project 10, Empowering the American Student and Worker
