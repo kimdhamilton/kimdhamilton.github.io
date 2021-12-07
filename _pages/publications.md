@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications and Other Writings
+title: Writings
 permalink: /publications/
 ---
 
