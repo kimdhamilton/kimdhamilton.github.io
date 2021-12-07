@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
----
-layout: page
-title: About
-permalink: /about/
----
-
 Throughout my career, I've focused on scaleable system design, algorithms, and core library/API design and implementation. 
 
 In more recent years, I've specialized in decentralized credentialing + identity solutions and blockchain-based architectures -- including clarifying when the former and latter should meet.
