@@ -4,6 +4,23 @@ title: Publications and Other Writings
 permalink: /publications/
 ---
 
+<style>
+  <!-- overriding header text align -->
+  h1, h2, h3, h4, h5, h6 {
+  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: $darkerGray;
+  font-weight: bold;
+
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
+  text-align: left;
+
+  @include mobile {
+    line-height: 1.4;
+  }
+}
+</style>
 ### Greatest Hits
 
 - [Applying Self-Sovereign Identity Principles to Interoperable Learning Records](https://www.uschamberfoundation.org/sites/default/files/media-uploads/Applying%20SSI%20Principles%20to%20ILRs%20Report.pdf), US Chamber of Commerce Foundation
