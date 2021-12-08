@@ -1,1 +1,8 @@
-Kim's personal site
+# Kim's personal site
+
+## Running locally
+
+```shell
+bundle install
+jekyll serve
+```
