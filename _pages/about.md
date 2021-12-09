@@ -25,7 +25,7 @@ permalink: /about/
 
 <h3 style="text-align:left;">Other Highlights</h3>
 
-- Led design and development of the first open source [Decentralized Identifier (DID) method](https://www.w3.org/TR/did-core/) based on the Bitcoin blockchain, called the Bitcoin Reference (BTCR) DID method. ([BTCR project page](https://www.okimsrazor.com/project/btcr-project/))
+- Led design and development of the first open source [Decentralized Identifier (DID) method](https://www.w3.org/TR/did-core/) based on the Bitcoin blockchain, called the [Bitcoin Reference (BTCR) DID method](https://w3c-ccg.github.io/didm-btcr/).
 - Co-created [Blockcerts](https://www.blockcerts.org/) with the MIT Media Lab. 
 	- Blockcerts is an open-source/open-standard method for anchoring Open Badges to blockchains, improving decentralization aspects of badge verification.
 - Formerly CTO of Learning Machine (now Hyland), which built a credentialing product based on Blockcerts.
