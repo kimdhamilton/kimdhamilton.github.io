@@ -49,7 +49,7 @@ My lens/focus has been building decentralized identity systems with the elements
 - Usability 
 - And dammit why is usability last on the list when it's central to almost all of the above and one of the most important factors.
 
-My focus over the past few years has been building systems and schemas supporting formal and informal credentials representing learning, work, and skills. As important as (if not more than) the work of building is the work of communicating, a challenge I've thrown myself into excitedly, if awkwardly.
+A specific focus was systems and schemas supporting formal and informal credentials representing learning, work, and skills. As important as (if not more than) the work of building is the work of communicating, a challenge I've thrown myself into excitedly, if awkwardly.
 
 More recently, applying it to a new domain of DeFi, I've been picking through my previous decks and docs to try to curate the most useful explanations for my colleagues, and decided I should try sharing them more broadly.
 
