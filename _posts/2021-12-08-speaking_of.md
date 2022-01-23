@@ -17,9 +17,7 @@ If you were in a decentralized identity talk right now, you'd 95% likely see thi
 
 <img style="border:1px solid black;" src="/images/post-2021-12-08/internet_dog.jpg" alt="on the internet no one knows you're a dog" width="600"/>
 
-DO NOT ENCOURAGE the speaker by forcing laughter. Instead shout "try harder!" If you're lucky, the startled speaker will go off script and try _real_ communication, sparing you the rest of their planned talk, which looks something like this:
-
-"The problem is that the web doesn't have an identity layer..." and then you will be _CRUSHED_ by acronyms and counterfactual web-with-identity diagrams, all claiming to solve this problem you're not sure you understood in the first place. (Please note: this is a self-criticism as much as anything, as you'll see below.)
+There's usually forced laughter at this point, which has bothered me over time because I've never felt like this is a good framing for "identity problems" on the web. This confusing frame of reference is followed by the problem statement behind dogs-on-the-internet "The problem is that the web doesn't have an identity layer...". And then comes an absolute battering by acronyms and counterfactual web-with-identity diagrams, all claiming to solve this problem you're not sure you understood in the first place. (Please note: this is a self-criticism as much as anything, as you'll see below.)
 
 Either that or grandiose claims that should make you skeptical. It doesn't help that the standards, technologies, and principles of decentralized identity are sometimes referred to more reverently as "self-sovereign identity".
 
