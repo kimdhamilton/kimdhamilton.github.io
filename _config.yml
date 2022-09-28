@@ -14,10 +14,6 @@ description: Decentralized identity, standards, code, occasionally featuring pug
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/volcano.png
 
-twitter:
-  username: kimdhamilton
-  card: summary_large_image
-
 #
 # Flags below are optional
 #
@@ -82,6 +78,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
+twitter:
+  username: kimdhamilton
+  card: summary
+  
 include: ['_pages']
 
 paginate: 6
