@@ -103,6 +103,6 @@ Headlines included:
 - [Bendy new york drivers licenses killed by no fun dmv](https://observer.com/2013/08/bendy-new-york-drivers-licenses-killed-by-no-fun-dmv/)
 - [Behold New York's Blah New Driver's License](https://beta.gothamist.com/news/behold-new-yorks-blah-new-drivers-license?betaRedirect=true)
 
-Driver's license designs are the target of vitriol you couldn't imagine -- a topic I expect to revisit in the future. For now, make do with this reddit thread titled ["When designers give up: Arizona releases some of the ugliest Driver's Licenses imaginable"](https://www.reddit.com/r/Design/comments/24hbfb/when_designers_give_up_arizona_releases_some_of/), even containing ad hominem attacks on Mr. Jelani Sample, misnaming him "Brah McDouchebag". Say what you will about Mr. Sample, he looks much younger than his 57 years of age and I thank him for his service.
+Driver's license designs are the target of vitriol you couldn't imagine -- a topic I expect to revisit in the future. For now, make do with this reddit thread titled ["When designers give up: Arizona releases some of the ugliest Driver's Licenses imaginable"](https://www.reddit.com/r/Design/comments/24hbfb/when_designers_give_up_arizona_releases_some_of/), even containing ad hominem attacks on Mr. Jelani Sample, misnaming him "Brah McDouchebag". Say what you will about Mr. Sample, he looks much younger than his 65 years of age and I thank him for his service.
 
 <img  src="../images/post-2022-10-01/mr_sample.png" alt="Arizona sample driver's license" width="400" />
