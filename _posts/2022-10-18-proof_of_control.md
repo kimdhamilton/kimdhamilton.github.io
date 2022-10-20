@@ -61,6 +61,17 @@ The subject retrieves the VC they want to share, VC*, generates a VP, and signs 
 
  This allows the relying party to trust that the original VC hasn’t been tampered with and the subject of the credential is really the intended recipient (possibly with additional levels of identity assurance, as required by the relying party).
 
+ ## About the wallet and its dependencies
+
+There are 3 objects shown near the subject/holder, called "wallet", "identifier vault", and "credential storage." What are these?
+
+First, individuals aren't necessarily expected to know about or interact with these as separate entities. I'm using "wallet" as shorthand for the application or entrypoint that individuals use to interact with their identity data. It might be a mobile app, browser plugin, etc. 
+
+There's no point in being overly opinionated on the wallet architecture and its capabilities, which is why "identifer vault" and "credential storage" are called out as possibly separate entities. Some wallets may implement all of these functions, and some may delegate these functions to other processes or services on or off device.
+
+- "identifier vault": manages decentralized identifiers for an individual, including creation, retrieval, etc. Here I've used them as blackboxes that would perform cryptographic signing, in the interest of minimizing exposre of private keys
+- "credential storage": manages (store, retrieve, etc) credentials
+ 
 ## More Details
 
 This post focused on holder and subject binding through proof of identifer control. Read [this section of the DIF Presentation Exchange spec](https://identity.foundation/presentation-exchange/#holder-and-subject-binding) for information about other methods of holder and subject binding, including biometrics

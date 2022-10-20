@@ -80,7 +80,7 @@ Michelle's signature is fun. I guess in the olden days you could think of it as 
 
 me: This is just an educational/informative exercise and not meant as the ideal mapping, so yes, definitely!
 
-@bycaballero: is this a subtweet, or
+@by_caballero: is this a subtweet, or
 
 me: If so, I guess I’m subtweeting how irritating US drivers licenses are. That will be a recurring theme...
 
