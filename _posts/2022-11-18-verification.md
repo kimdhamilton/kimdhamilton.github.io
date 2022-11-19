@@ -7,13 +7,13 @@ categories: Reputation, Decentralized Networks
 
 Identity and reputation systems are hard. This is becoming increasingly clear...or shall we say, *sinking in*... for users of the social media network Twitter. Under new management, changes to Twitter's traditional verification process have been explored in real time.
 
-<img src="../images/post-2022-11-16/sink_in.jpeg" alt="Elon Musk letting things sink in" width="400" />
+<img src="../images/post-2022-11-18/sink_in.jpeg" alt="Elon Musk letting things sink in" width="400" />
 
 First, some clarfications. By "traditional Twitter verification process" I'm referring broadly to the method used before November 2022, resulting in a blue "verified" checkmark. The details and requirements of this process are known to Twitter alone, but we do know it strived for "real" identity verification, meaning the identity information (name, photo) claimed in the Twitter profile belongs to the expected individual.
 
 In particular, it attempted to prevent the following from occurring: a "verified" checkmark on a profile _appearing_ to be a famous individual but actually corresponding to an imposter trying to scam people.
 
-<img src="../images/post-2022-11-16/fake_elon.png" alt="Elon Musk fake Twitter profile. The name and image correspond to Elon Musk (highlighted in pink), but the user name is incorrect and the content appears to be a scam. Yet the account has a Twitter blue verified checkmark." width="400" />
+<img src="../images/post-2022-11-18/fake_elon.png" alt="Elon Musk fake Twitter profile. The name and image correspond to Elon Musk (highlighted in pink), but the user name is incorrect and the content appears to be a scam. Yet the account has a Twitter blue verified checkmark." width="400" />
 
 ### Twitter Verification -- the "before" state, the proposal, and initial reaction
 
@@ -21,13 +21,13 @@ But that's jumping ahead. Until early November 2022, this blue checkmark more or
 
 To be clear, there are valid criticisms of the traditional process: the opacity (no one knew exactly what was required to get it), the fact that a single company has the power to bestow or remove the "verified" marker on a whim. But at least it felt stable and therefore the idea of abrupt changes to this process, including switching to a ~~$20~~ $8 fee, was met with resistance. 
 
-<img src="../images/post-2022-11-16/elon_stephen.jpeg" alt="Elon Musk and Stephen King negotiatng the price of Twitter verification in a Twitter exchange" width="400" />
+<img src="../images/post-2022-11-18/elon_stephen.jpeg" alt="Elon Musk and Stephen King negotiatng the price of Twitter verification in a Twitter exchange" width="400" />
 
 Fundamental concerns were raised, resulting from dependencies on the traditional verification process. Twitter has functioned as a global town square over the last decade, enabling rapid spread of information and misinformation and has been considered to play a role in the outcome of significant world events. So a sudden rollout of dramatic changes to a fundemental feature like identity -- especially given Twitter's scale -- was alarming to many.
 
 Journalists expressed concern that the proposed changes could make it difficult for users to distinguish misinformation from fact-checked content from a trusted news organization (as determined by the user). Rolling out such changes immediately before an election further increased anxiety.
 
-<img src="../images/post-2022-11-16/election_fears.png" alt="Concerns that $8 verified accounts could impersonate politicians, causing trouble immediately before an election" width="500" />
+<img src="../images/post-2022-11-18/election_fears.png" alt="Concerns that $8 verified accounts could impersonate politicians, causing trouble immediately before an election" width="500" />
 
 Even more confusing, the rationale, timing, logistics, and semantics of the changes were not clear. I'm not sure we were all on the same page about:
 
@@ -35,7 +35,7 @@ Even more confusing, the rationale, timing, logistics, and semantics of the chan
 2. Would existing "verified" users lose their marker if they don't pay the fee? And what is the
 3. Semantics -- what is the difference between "verified" vs "official"?
 
-<img src="../images/post-2022-11-16/elon_power.png" alt="Elon tweeting that the $8 fee will bring power to the people" width="500" />
+<img src="../images/post-2022-11-18/elon_power.png" alt="Elon tweeting that the $8 fee will bring power to the people" width="500" />
 
 Let's put that aside for now because it's not critical to the rest of the discussion. 
 
@@ -49,7 +49,7 @@ At the same time, we also want to prevent abuse by those looking to game the sys
 - For social media networks: a user poses as someone else to achieve a platform to spread misinformation or to trick people into scams Users like Vitalik Buterin are a common target, as in the screenshot below.
 - For decentralized digital currencies: spinning up multiple identities to circumvent security controls and perform "double-spends" -- spending the same funds twice, effectively stealing from one of the recipients.
 
-<img src="../images/post-2022-11-16/vitalik_fake.png" alt="A user posing as Vitalik Buterin, likely to trick other users into sending funds" width="500" />
+<img src="../images/post-2022-11-18/vitalik_fake.png" alt="A user posing as Vitalik Buterin, likely to trick other users into sending funds" width="500" />
 
 There are many methods used (alone or in combination) to prevent or reduce these risks, but two of those are precisely the "before" and "after" Twitter verification methods -- i.e., real identity verification (before) and fee-based models (after). 
 
@@ -65,7 +65,7 @@ Paid email was just a thought exercise; we enjoy free email and rely on other me
 
 All of this is to say that these problems have no easy answers and therefore any lessons learned from Twitter's rollout stands to benefit decentralized identity systems, Forther, I innocently thought this might be a good opportunity to maybe even help if unintended consequences occurred. 
 
-<img src="../images/post-2022-11-16/helping_out.jpeg" alt="Ralph from the Simpsons, saying that he's helping" width="500" />
+<img src="../images/post-2022-11-18/helping_out.jpeg" alt="Ralph from the Simpsons, saying that he's helping" width="500" />
 
 For example, if you were verified as of November 10, but then unexpectedly lost that status on November 11, how would you prove that? These are exactly the sorts of problems we try to address with decentralized identity solutions. Instead of your identity claims being locked into companies, we want to enable you to carry it with you in the form of a portable "Verifiable Credential" (VC) that you carry in your own digital wallet. 
 
@@ -79,7 +79,7 @@ So I picked this as a timely motivational example to show how portable VCs could
 
 VeriFIEND is the the verified account verifier. It's part one of this open source experiment. It collects complete lists of Twitter verified accounts as often as it can (given Twitter's API rate limits). These dumps will help it serve as a witness, enabling part 2 -- VeriFRIEND.
 
-<img src="../images/post-2022-11-16/Verifiend-FullLogo.png" alt="Verifiend logo -- a goose honking" width="500" />
+<img src="../images/post-2022-11-18/Verifiend-FullLogo.png" alt="Verifiend logo -- a goose honking" width="500" />
 
 #### What's happening so far
 
@@ -91,7 +91,7 @@ There is also a quick way to get just the raw following count without going thro
 
 Based on this data, we can view trends in verified user counts over time. The [Verifiend dashboard](https://verifiend.xyz/) shows these counts over the past week and a half (and counting). 
 
-<img src="../images/post-2022-11-16/verifriend.png" alt="WIP Verifriend dashboard, demonstrating the verified count decreasing" width="500" />
+<img src="../images/post-2022-11-18/verifriend.png" alt="WIP Verifriend dashboard, demonstrating the verified count decreasing" width="500" />
 
  The full details and assumptions behind this collection are described in the [Verifiend technical README](https://github.com/kimdhamilton/verifiend/blob/main/README.md). You can also see the [backend source code here](https://github.com/kimdhamilton/verifiend).
 
@@ -114,17 +114,17 @@ I make no guarantees on timing; this is my weekend / fun project. There are assu
 
 ### Checking in on Twitter
 
-<img src="../images/post-2022-11-16/pizza.jpeg" alt="Twitter verification scheme explodes" width="500" />
+<img src="../images/post-2022-11-18/pizza.jpeg" alt="Twitter verification scheme explodes" width="500" />
 
 Twitter users gladly forked over $8 and in return treated the world to novel and creative applications of their newly acquired mark of prestige.
 
 Some of these took the form of obvious parody, perhaps requiring close scrutiny and double-takes because of the verified checkmarks, such as in [this exchange between "Ben Shapiro" and "Ted Cruz"](https://twitter.com/AttemptXX4/status/1591094667353128960).
 
-<img src="../images/post-2022-11-16/ted_cruz_human.jpeg" alt="Ted Cruz and Ben Shapiro faux verified accounts interacting in eerily realistic ways" width="500" />
+<img src="../images/post-2022-11-18/ted_cruz_human.jpeg" alt="Ted Cruz and Ben Shapiro faux verified accounts interacting in eerily realistic ways" width="500" />
 
 Others impacted markets, as in this example where a [mock Eli Lilly account announced free insulin](https://twitter.com/paulkidd/status/1591156461656498176). While embraced by those with utopian instincts, investors revolted at the idea and dumped the stock.
 
-<img src="../images/post-2022-11-16/eli_insulin.jpeg" alt="Eli Lilly impersonator account announcing free insulin" width="500" />
+<img src="../images/post-2022-11-18/eli_insulin.jpeg" alt="Eli Lilly impersonator account announcing free insulin" width="500" />
 
 Ultimately twitter had to suspend this rollout, as advertisers revolted en masse at the outcomes like above. Twitter will now be rolling out the ROCK SOLID version November 29. 
 
