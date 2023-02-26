@@ -28,6 +28,11 @@ title: Posts Archive
           <p><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> - {% if post.date and post.date != "" %}{{ post.date | date: "%e %B %Y" }}{%endif%}</p>
           {% endfor %}
       </ul>
-    <h3>Oldest Posts</h3>
+    <h3>Posts from Previous Eras</h3>
+    <ul>
+      <li><a href="https://community.blockcerts.org/search?q=kim">Blockcerts Posts</a></li>
+      <li><a href="https://kimdhamilton.wordpress.com/">HBase, Hadoop Posts</a></li>
+      <li><a href="https://learn.microsoft.com/en-us/archive/blogs/bclteam">.NET Base Class Libraries Posts</a> <i>(Collections, Resource Manager, IO, contracts, performance, and a shocking amount of Serial Port)</i></li>
+    </ul>
   </section>
 </div>
