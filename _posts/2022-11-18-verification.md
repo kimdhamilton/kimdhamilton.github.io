@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Verifying the verifieds
+title: Verifying the verified accounts
 categories: Reputation, Decentralized Networks
 
 ---
-> Update: things are moving even faster than described below, Twitter-wise, and it's possible this may function as a swan song. Either way, Twitter has taught us a lot about reputation and identity in a very short amount of time, and we will take these lessons with us.
+> Twitter has taught us a lot about reputation and identity in a very short amount of time, hence this brief interlude and exploration
 
 Identity and reputation systems are hard. This is becoming increasingly clear...or shall we say, _sinking in_... for users of the social media network Twitter. Under new management, changes to Twitter's traditional verification process have been explored in real time.
 
