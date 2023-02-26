@@ -8,9 +8,12 @@ permalink: /about/
 - Career: scaleable system design, algorithms, and core library/API design and implementation
 - Life: delighting in the difficult and arcane; math from the cutting room floor; cello
 
-<h3 style="text-align:left;">Current Role</h3>
+<h3 style="text-align:left;">Current Role and Activities</h3>
 
 - Director Identity and Standards, Centre Consortium
+	- Building [Verite](https://verite.id/) -- decentralized identity for Fintech and DeFi
+- Chair, World Economic Forum Digital Identity Technical Working Group
+- Associated Editor IET Blockchain
 
 <h3 style="text-align:left;">Recent Activities</h3>
 
