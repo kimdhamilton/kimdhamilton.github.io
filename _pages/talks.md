@@ -6,6 +6,7 @@ permalink: /talks/
 
 | Conference/Forum | Talk Link | Date | 
 |--|--|--|
+| [The Blockchain Show](https://www.youtube.com/@blockchainshow) | [238: Centre Consortium / Kim Hamilton Duffy](https://youtu.be/yobz7IcvFXI) | Mar 2023 |
 | [Converge22](https://converge.circle.com/event/4ea0d06f-3900-4b6d-a9cd-aeaedda9ef2e/summary) | [Solving Institutional DeFi with Decentralized Identity](https://www.youtube.com/watch?v=iUQa1yM1te8) | Oct 2022 |
 | [Mainnet Messari](https://messari.io/mainnet) | [The Case for Asset-backed Stablecoins](https://www.youtube.com/watch?v=y-xWhdfnKrI) | Sept 2022 |
 | [Crypto Coin Show](https://www.youtube.com/@CryptoCoinShow) | [Interview with Kim Hamilton Duffy, Director of Identity and Standards at Centre / USDC](https://www.youtube.com/watch?v=BqvoeMT-clU) | Sept 2022 |
