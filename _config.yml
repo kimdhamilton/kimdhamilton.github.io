@@ -82,7 +82,7 @@ twitter:
   username: kimdhamilton
   card: summary
   
-include: ['_pages']
+include: ['_pages', '.well-known']
 
 paginate: 6
 paginate_path: /page:num/
