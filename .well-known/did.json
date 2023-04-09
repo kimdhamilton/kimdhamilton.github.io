@@ -1,0 +1,31 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    {
+      "Ed25519VerificationKey2018": "https://w3id.org/security#Ed25519VerificationKey2018",
+      "publicKeyJwk": {
+        "@id": "https://w3id.org/security#publicKeyJwk",
+        "@type": "@json"
+      }
+    }
+  ],
+  "id": "did:web:okimsrazor.com",
+  "verificationMethod": [
+    {
+      "id": "did:web:okimsrazor.com#key1",
+      "type": "Ed25519VerificationKey2018",
+      "controller": "did:web:okimsrazor.com",
+      "publicKeyJwk": {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "x": "h-bEmtNmO6fCgq513d4P-1SNifAHT2p7gHICSX2FBzQ"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:okimsrazor.com#key1"
+  ],
+  "assertionMethod": [
+    "did:web:okimsrazor.com#key1"
+  ]
+}
