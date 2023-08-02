@@ -6,6 +6,7 @@ permalink: /talks/
 
 | Conference/Forum | Talk Link | Date | 
 |--|--|--|
+| [Dock Identi3 Podcast](https://www.youtube.com/@docknetwork) | [Decentralized Identity in Finance (with Kim Hamilton Duffy)](https://youtu.be/sPu_XUf5w5Q) | Jul 2023 |
 | [The Blockchain Show](https://www.youtube.com/@blockchainshow) | [238: Centre Consortium / Kim Hamilton Duffy](https://youtu.be/yobz7IcvFXI) | Mar 2023 |
 | [Converge22](https://converge.circle.com/event/4ea0d06f-3900-4b6d-a9cd-aeaedda9ef2e/summary) | [Solving Institutional DeFi with Decentralized Identity](https://www.youtube.com/watch?v=iUQa1yM1te8) | Oct 2022 |
 | [Mainnet Messari](https://messari.io/mainnet) | [The Case for Asset-backed Stablecoins](https://www.youtube.com/watch?v=y-xWhdfnKrI) | Sept 2022 |
