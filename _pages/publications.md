@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h3 style="text-align:left;">Greatest Hits</h3>
 
-- [Eeimagining Digital ID, Insight Report. June 2023](https://www3.weforum.org/docs/WEF_Reimagining_Digital_ID_2023.pdf), World Economic Forum
+- [Reimagining Digital ID, Insight Report. June 2023](https://www3.weforum.org/docs/WEF_Reimagining_Digital_ID_2023.pdf), World Economic Forum
 - [Learner Credential Wallet Specification](https://digitalcredentials.mit.edu/docs/Learner-Credential-Wallet-Specification-May-2021.pdf), MIT DCC and US Dept of Education
 - [Applying Self-Sovereign Identity Principles to Interoperable Learning Records](https://www.uschamberfoundation.org/sites/default/files/media-uploads/Applying%20SSI%20Principles%20to%20ILRs%20Report.pdf), US Chamber of Commerce Foundation
 - [Building the digital credential infrastructure for the future](https://digitalcredentials.mit.edu/wp-content/uploads/2020/02/white-paper-building-digital-credential-infrastructure-future.pdf), Digital Credentials Consortium
