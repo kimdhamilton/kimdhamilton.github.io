@@ -8,6 +8,7 @@ permalink: /talks/
 |--|--|--|
 | [Privacy By Design Lab](https://www.youtube.com/@privacybydesignlab1760) | [Privacy Talk with Kim Hamilton Duffy, Executive Director of Decentralized Identity Foundation](https://www.youtube.com/watch?v=N0aX4hJIVfM&t=695s) | Sept 2024 |
 | [Trinsic Podcast](https://www.youtube.com/@Trinsic_ID) | [Kim Hamilton Duffy - From Learning Machine to DIF and the Evolution of Decentralized Identity](https://www.youtube.com/watch?v=k7TeJpXJjko) | Aug 2024 |
+| [Kuppinger Cole](https://www.kuppingercole.com/) | [EIC 2024](https://www.kuppingercole.com/speakers/2695) | Jun 2024 | 
 | [Holochain Podcast](https://www.youtube.com/@Holochain) | [On Digital and Human Identity with Kim Hamilton-Duffy](https://www.youtube.com/watch?v=G4watKWfQVE) | Jun 2024 |
 | [Dock Identi3 Podcast](https://www.youtube.com/@docknetwork) | [Decentralized Identity in Finance (with Kim Hamilton Duffy)](https://youtu.be/sPu_XUf5w5Q) | Jul 2023 |
 | [The Blockchain Show](https://www.youtube.com/@blockchainshow) | [238: Centre Consortium / Kim Hamilton Duffy](https://youtu.be/yobz7IcvFXI) | Mar 2023 |
