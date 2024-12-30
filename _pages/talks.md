@@ -11,6 +11,7 @@ permalink: /talks/
 | [Kuppinger Cole](https://www.kuppingercole.com/) | [EIC 2024](https://www.kuppingercole.com/speakers/2695) | Jun 2024 | 
 | [Holochain Podcast](https://www.youtube.com/@Holochain) | [On Digital and Human Identity with Kim Hamilton-Duffy](https://www.youtube.com/watch?v=G4watKWfQVE) | Jun 2024 |
 | [Dock Identi3 Podcast](https://www.youtube.com/@docknetwork) | [Decentralized Identity in Finance (with Kim Hamilton Duffy)](https://youtu.be/sPu_XUf5w5Q) | Jul 2023 |
+| [Identiverse](https://identiverse.com/) | [Identiverse 2023](https://identiverse.com/idv23/speakers/) | May 2023 | 
 | [The Blockchain Show](https://www.youtube.com/@blockchainshow) | [238: Centre Consortium / Kim Hamilton Duffy](https://youtu.be/yobz7IcvFXI) | Mar 2023 |
 | [Converge22](https://converge.circle.com/event/4ea0d06f-3900-4b6d-a9cd-aeaedda9ef2e/summary) | [Solving Institutional DeFi with Decentralized Identity](https://www.youtube.com/watch?v=iUQa1yM1te8) | Oct 2022 |
 | [Mainnet Messari](https://messari.io/mainnet) | [The Case for Asset-backed Stablecoins](https://www.youtube.com/watch?v=y-xWhdfnKrI) | Sept 2022 |
