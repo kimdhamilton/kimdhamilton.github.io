@@ -5,7 +5,8 @@ permalink: /publications/
 ---
 
 <h3 style="text-align:left;">Greatest Hits</h3>
-
+- Chains of Trust: Combatting Synthetic Data Risks of AI], March 2025, Oxford Intersections: AI in Society
+- [Personhood credentials: Artificial intelligence and the value of privacy-preserving tools to distinguish who is real online](https://arxiv.org/pdf/2408.07892), Arxiv.org
 - [Reimagining Digital ID, Insight Report. June 2023](https://www3.weforum.org/docs/WEF_Reimagining_Digital_ID_2023.pdf), World Economic Forum
 - [Learner Credential Wallet Specification](https://digitalcredentials.mit.edu/docs/Learner-Credential-Wallet-Specification-May-2021.pdf), MIT DCC and US Dept of Education
 - [Applying Self-Sovereign Identity Principles to Interoperable Learning Records](https://www.uschamberfoundation.org/sites/default/files/media-uploads/Applying%20SSI%20Principles%20to%20ILRs%20Report.pdf), US Chamber of Commerce Foundation
