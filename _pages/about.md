@@ -2,20 +2,22 @@
 layout: page
 title: About
 permalink: /about/
---- 
+---
+
+## Background
 
 - Last few years: Decentralized credentialing + identity solutions and blockchain-based architectures
 - Career: scaleable system design, algorithms, and core library/API design and implementation
 - Life: delighting in the difficult and arcane; math from the cutting room floor; cello
 
-<h3 style="text-align:left;">Current Role and Activities</h3>
+## Current Role and Activities
 
 - Director Identity and Standards, Centre Consortium
 	- Building [Verite](https://verite.id/) -- decentralized identity for Fintech and DeFi
 - Chair, World Economic Forum Digital Identity Technical Working Group
 - Associated Editor IET Blockchain
 
-<h3 style="text-align:left;">Recent Activities</h3>
+## Recent Activities
 
 - Architect [Digital Credentials Consortium](https://digitalcredentials.mit.edu/) at [MIT Open Learning](https://openlearning.mit.edu/)
 	- Multi-university, international effort designing the future of academic credentials. 
@@ -26,7 +28,7 @@ permalink: /about/
 - Guest Editor, [IEEE Dawn of the Internet Identity Layer](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/dawn-internet-identity-layer-and)
 - Board [Rebooting Web of Trust](https://www.weboftrust.info/)
 
-<h3 style="text-align:left;">Other Highlights</h3>
+## Other Highlights
 
 - Led design and development of the first open source [Decentralized Identifier (DID) method](https://www.w3.org/TR/did-core/) based on the Bitcoin blockchain, called the [Bitcoin Reference (BTCR) DID method](https://w3c-ccg.github.io/didm-btcr/).
 - Co-created [Blockcerts](https://www.blockcerts.org/) with the MIT Media Lab. 

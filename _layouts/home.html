@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<div class="hero">
+  <div class="hero-content">
+    <h1>{{ site.title }}</h1>
+    <p class="tagline">{{ site.tagline }}</p>
+    <p class="description">{{ site.description }}</p>
+    <div class="cta-buttons">
+      <a href="#about" class="button primary">About Me</a>
+      <a href="#work" class="button secondary">My Work</a>
+    </div>
+  </div>
+</div>
+
+<section id="about" class="section">
+  <div class="container">
+    <h2>About Me</h2>
+    <div class="about-content">
+      <div class="about-text">
+        <p>I'm a technology leader and architect specializing in decentralized identity systems and standards. With extensive experience in digital identity, blockchain, and web technologies, I work to create more secure and privacy-preserving digital ecosystems.</p>
+        <p>My work focuses on developing standards and implementations that enable individuals and organizations to control their digital identities while fostering interoperability and trust in digital systems.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="work" class="section alternate">
+  <div class="container">
+    <h2>Latest Work</h2>
+    <div class="posts-grid">
+      {% for post in site.posts limit:6 %}
+        <article class="post-card">
+          <div class="post-content">
+            <span class="post-date">{{ post.date | date: "%B %e, %Y" }}</span>
+            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+            <p class="excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More →</a>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+    <div class="center-text">
+      <a href="/blog" class="button secondary">View All Posts</a>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="section">
+  <div class="container">
+    <h2>Connect With Me</h2>
+    <div class="social-links">
+      {% if site.footer-links.github %}
+        <a href="https://github.com/{{ site.footer-links.github }}" class="social-link github" target="_blank">
+          <i class="fab fa-github"></i>
+        </a>
+      {% endif %}
+      {% if site.footer-links.linkedin %}
+        <a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}" class="social-link linkedin" target="_blank">
+          <i class="fab fa-linkedin"></i>
+        </a>
+      {% endif %}
+      {% if site.footer-links.twitter %}
+        <a href="https://twitter.com/{{ site.footer-links.twitter }}" class="social-link twitter" target="_blank">
+          <i class="fab fa-twitter"></i>
+        </a>
+      {% endif %}
+      {% if site.footer-links.email %}
+        <a href="mailto:{{ site.footer-links.email }}" class="social-link email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      {% endif %}
+    </div>
+  </div>
+</section> 

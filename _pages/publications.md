@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 <h3 style="text-align:left;">Greatest Hits</h3>
+
 - Chains of Trust: Combatting Synthetic Data Risks of AI, March 2025, Oxford Intersections: AI in Society
 - [Personhood credentials: Artificial intelligence and the value of privacy-preserving tools to distinguish who is real online](https://arxiv.org/pdf/2408.07892), Arxiv.org
 - [Decentralized Identity of Artifacts - System Architecture](https://www.researchgate.net/publication/384793565_Decentralized_Identity_of_Artifacts_-_System_Architecture), 2024 IEEE 12th International Conference on Intelligent Systems
@@ -30,6 +31,7 @@ permalink: /publications/
 These are mostly Rebooting Web of Trust papers
 
 <h5 style="text-align:left;">Decentralized Identifiers</h5>
+
 - [BTCR DID Method Updates](https://medium.com/@kimdhamilton/btcr-did-method-updates-d0fd14386139)
 - [BTCR v0.1 Design Decisions](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/btcr_0_1.pdf)
 - [IPLD as a general pattern for DID documents and Verifiable Claims](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/ipld-did.pdf)
