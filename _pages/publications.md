@@ -6,8 +6,6 @@ permalink: /publications/
 
 <h3 style="text-align:left;">Publications</h3>
 
-[My ORCID](https://orcid.org/0009-0002-9001-9321)
-
 - [Chains of Trust: Combatting Synthetic Data Risks of AI](https://academic.oup.com/edited-volume/59762/chapter-abstract/508609059), March 2025, Oxford Intersections: AI in Society
 - [Personhood credentials: Artificial intelligence and the value of privacy-preserving tools to distinguish who is real online](https://arxiv.org/pdf/2408.07892), August 2024, Arxiv.org
 - [Decentralized Identity of Artifacts - System Architecture](https://www.researchgate.net/publication/384793565_Decentralized_Identity_of_Artifacts_-_System_Architecture), August 2024, 2024 IEEE 12th International Conference on Intelligent Systems
@@ -21,7 +19,7 @@ permalink: /publications/
 - [What we learned from designing an academic certificates system on the blockchain](https://medium.com/mit-media-lab/what-we-learned-from-designing-an-academic-certificates-system-on-the-blockchain-34ba5874f196)
 - [Learning UML 2.0](https://www.amazon.com/Learning-UML-2-0-Pragmatic-Introduction-ebook/dp/B0028N4WII/) 
 
-
+[ORCID](https://orcid.org/0009-0002-9001-9321)
 
 <h3 style="text-align:left;">Specs</h3>
 

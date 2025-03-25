@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Talks
-permalink: /talks/
+title: Talks & Media
+permalink: /media/
 ---
 
-| Conference/Forum | Talk Link | Date | 
+| Venue/Forum |  Link | Date | 
 |--|--|--| 
+| [Project Glitch](https://www.projectglitch.xyz/) | [How the US could sleepwalk into a dystopian digital ID system](https://www.projectglitch.xyz/p/how-the-us-could-sleepwalk-into-a) | Feb 2025 | 
 | [Project Glitch](https://www.projectglitch.xyz/) | [Exploring the Future of Digital Identity](https://www.youtube.com/watch?v=qdAiOU_7hr0) | Feb 2025 | 
 | [Privacy By Design Lab](https://www.youtube.com/@privacybydesignlab1760) | [Privacy Talk with Kim Hamilton Duffy, Executive Director of Decentralized Identity Foundation](https://www.youtube.com/watch?v=N0aX4hJIVfM&t=695s) | Sept 2024 |
 | [Trinsic Podcast](https://www.youtube.com/@Trinsic_ID) | [Kim Hamilton Duffy - From Learning Machine to DIF and the Evolution of Decentralized Identity](https://www.youtube.com/watch?v=k7TeJpXJjko) | Aug 2024 |
