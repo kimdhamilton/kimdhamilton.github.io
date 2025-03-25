@@ -21,13 +21,10 @@ permalink: /publications/
 
 [ORCID](https://orcid.org/0009-0002-9001-9321)
 
-<h3 style="text-align:left;">Specs</h3>
-
-- [Presentation Exchange](https://identity.foundation/presentation-exchange)
-- [Universal Wallet Interop Spec](https://w3c-ccg.github.io)
-- [BTCR DID Method, Draft Community Group Report](https://w3c-ccg.github.io/didm-btcr/)
+<h3 style="text-align:left;">Specifications & Report</h3>
 - [Use Cases for Decentralized Identifiers, Draft Community Report](https://w3c-ccg.github.io/did-use-cases/)
 - [Modeling Educational Verifiable Credentials](https://w3c-ccg.github.io/vc-ed-models/)
+- [BTCR DID Method, Draft Community Group Report](https://w3c-ccg.github.io/didm-btcr/)
 
 <h3 style="text-align:left;">Other Technical Papers</h3>
 

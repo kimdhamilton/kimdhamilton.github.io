@@ -56,7 +56,7 @@ a {
 .wrapper-masthead {
   background: $white;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  padding: 1rem 0;
+  padding: 0.8rem 0;
   position: fixed;
   width: 100%;
   top: 0;
@@ -68,16 +68,19 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
 
   .site-info {
     .site-name {
-      font-size: 1.3rem;
+      font-size: 1.2rem;
       font-weight: 600;
       margin: 0;
     }
 
     .site-description {
-      font-size: 0.9rem;
+      font-size: 0.85rem;
       color: lighten($text-color, 20%);
       margin: 0;
     }
@@ -103,31 +106,13 @@ nav {
 
 // Main content
 .wrapper-main {
-  margin-top: 80px;
+  padding-top: 140px;
   padding: 2rem 0;
-
-  .bio-section {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 2rem;
-    text-align: center;
-
-    .profile-image {
-      margin-bottom: 3rem;
-    }
-
-    h2 {
-      color: $primary-color;
-      margin-bottom: 1.5rem;
-    }
-
-    p {
-      font-size: 1.1rem;
-      line-height: 1.7;
-      color: $text-color;
-      max-width: 600px;
-      margin: 0 auto 1.5rem;
-    }
+  
+  // Page title spacing
+  h1, h2 {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
   }
 }
 
@@ -263,6 +248,12 @@ nav {
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem;
+
+  // Add extra padding at the top for the page title
+  h1:first-child {
+    padding-top: 1rem;
+    margin-bottom: 2.5rem;
+  }
 
   strong, b {
     font-weight: 600;
@@ -519,25 +510,27 @@ footer {
 // Featured Publications
 .featured-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  margin: 2rem 0;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem auto;
+  max-width: 900px;
+  padding: 0 1rem;
 
   .featured-item {
     background: $white;
-    padding: 2rem;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
     transition: $transition;
     
     &:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+      transform: translateY(-3px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     }
 
     h3 {
-      font-size: 1.3rem;
-      margin-bottom: 1rem;
+      font-size: 1.2rem;
+      margin-bottom: 0.8rem;
       line-height: 1.4;
       color: $primary-color;
     }
@@ -545,20 +538,21 @@ footer {
     .venue {
       color: $secondary-color;
       font-weight: 500;
-      margin-bottom: 0.5rem;
+      font-size: 0.95rem;
+      margin-bottom: 0.4rem;
     }
 
     .date {
       color: lighten($text-color, 20%);
-      font-size: 0.9rem;
-      margin-bottom: 1.5rem;
+      font-size: 0.85rem;
+      margin-bottom: 1rem;
     }
 
     .read-more {
       display: inline-block;
       color: $secondary-color;
       font-weight: 500;
-      margin-top: 1rem;
+      font-size: 0.95rem;
       
       &:hover {
         text-decoration: none;
@@ -576,56 +570,69 @@ footer {
   h3 { font-size: 1.3rem; }
   
   .wrapper-masthead {
-    padding: 0.8rem 0;
+    padding: 0.6rem 0;
   }
 
   .masthead {
     flex-direction: column;
     text-align: center;
-    padding: 0.5rem;
+    padding: 0 1rem;
 
     .site-info {
-      margin-bottom: 0.5rem;
+      margin-bottom: 0.4rem;
+      
+      .site-name {
+        font-size: 1.1rem;
+      }
+      
+      .site-description {
+        font-size: 0.8rem;
+      }
     }
   }
 
   nav {
     flex-wrap: wrap;
     justify-content: center;
-    gap: 0.8rem;
+    gap: 0.5rem;
     
     a {
-      padding: 0.4rem 0.8rem;
+      padding: 0.3rem 0.6rem;
+      font-size: 0.9rem;
     }
   }
 
   .wrapper-main {
-    margin-top: 120px;
-    padding: 1.5rem 0;
+    padding-top: 120px;
+    
+    h1, h2 {
+      margin-top: 0.5rem;
+      margin-bottom: 1.5rem;
+    }
   }
 
   .hero {
-    min-height: 35vh;
-    padding: 2.5rem 1.5rem;
+    min-height: 30vh;
+    padding: 2rem 1.5rem;
     
     h1 { 
-      font-size: 2.5rem;
-      margin-bottom: 0.8rem;
-    }
-    
-    .tagline { 
-      font-size: 1.4rem;
+      font-size: 2.2rem;
       margin-bottom: 0.6rem;
     }
     
+    .tagline { 
+      font-size: 1.2rem;
+      margin-bottom: 0.5rem;
+    }
+    
     .description { 
-      font-size: 1.1rem;
-      margin: 0.8rem auto;
+      font-size: 1rem;
+      margin: 0.6rem auto;
     }
 
     .cta-buttons {
-      gap: 1rem;
-      margin-top: 1.5rem;
+      gap: 0.8rem;
+      margin-top: 1.2rem;
     }
   }
 
@@ -634,7 +641,14 @@ footer {
     font-size: 1rem;
   }
 
-  .page { padding: 1.5rem; }
+  .page {
+    padding: 1.5rem;
+
+    h1:first-child {
+      padding-top: 0.5rem;
+      margin-bottom: 2rem;
+    }
+  }
 
   footer { padding: 3rem 0; }
 
@@ -709,11 +723,30 @@ footer {
 
   .featured-grid {
     grid-template-columns: 1fr;
-    gap: 1.5rem;
-    margin: 1.5rem 0;
+    gap: 1rem;
+    margin: 1.2rem 0;
+    padding: 0 0.5rem;
 
     .featured-item {
-      padding: 1.5rem;
+      padding: 1.2rem;
+      
+      h3 {
+        font-size: 1.1rem;
+        margin-bottom: 0.6rem;
+      }
+
+      .venue {
+        font-size: 0.9rem;
+      }
+
+      .date {
+        font-size: 0.8rem;
+        margin-bottom: 0.8rem;
+      }
+
+      .read-more {
+        font-size: 0.9rem;
+      }
     }
   }
 }

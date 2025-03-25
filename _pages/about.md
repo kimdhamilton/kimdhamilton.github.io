@@ -6,9 +6,12 @@ permalink: /about/
 
 ### Who I Am
 
-I'm a technologist and leader dedicated to building digital infrastructure that respects human agency and privacy. My career has evolved from core systems development to pioneering decentralized identity standards that put people at the center of their digital lives.
+I build standards and solutions that empower individuals in their digital lives, unlocking new opportunities and safeguarding privacy. My experience includes developing core libraries at Microsoft, building distributed systems, and pioneering decentralized identity solutions and standards. 
 
-I thrive on tackling complex challenges combining technology, policy, and human needs.
+Currently, I'm applying decentralized identity principles to non-person entities and autonomous agents, overcoming traditional identity system limitations and enabling secure, autonomous interactions between agents. This approach reduces insecure practices like credential sharing and excessive permissions, ultimately enhancing security for everyone.
+
+I'm particularly drawn to solving complex problems at the intersection of distributed systems, open standards, and human-centered design.
+
 
 ### Current Roles
 
@@ -17,9 +20,9 @@ I thrive on tackling complex challenges combining technology, policy, and human 
 - **Architecture Advisor**, [ASU Trusted Learner Network](https://tln.asu.edu/) — Shaping the vision for lifelong learning and credentialing systems
 
 ### Previous Projects
-
+ 
 **Blockchain-Based Credentials**  
-I co-created [Blockcerts](https://www.blockcerts.org/) with MIT Media Lab – pioneering the use of blockchain for verifiable credentials. As CTO of Learning Machine, I transformed this open standard into one of the first commercially successful self-sovereign identity products. Read more in [What We Learned from Designing an Academic Certificates System on the Blockchain](https://medium.com/mit-media-lab/what-we-learned-from-designing-an-academic-certificates-system-on-the-blockchain-34ba5874f196).
+I co-created [Blockcerts](https://www.blockcerts.org/) with MIT Media Lab – developing the first open-source implementation of blockchain-anchored credentials that enables tamper-evident verification without relying on a central authority. I architected and built the open source libraries and standards. As CTO of Learning Machine, I built on the open standard to develop on of the first commercially successful self-sovereign identity products. Read more in [What We Learned from Designing an Academic Certificates System on the Blockchain](https://medium.com/mit-media-lab/what-we-learned-from-designing-an-academic-certificates-system-on-the-blockchain-34ba5874f196).
 
 **Educational Empowerment**  
 As Lead Architect for MIT's [Digital Credentials Consortium](https://digitalcredentials.mit.edu/), I designed infrastructure enabling learners to control and share their academic achievements across institutions. Key outputs included the [Learner Credential Wallet Specification](https://digitalcredentials.mit.edu/docs/Learner-Credential-Wallet-Specification-May-2021.pdf) (with the US Department of Education) and [Building the Digital Credential Infrastructure for the Future](https://digitalcredentials.mit.edu/wp-content/uploads/2020/02/white-paper-building-digital-credential-infrastructure-future.pdf).
