@@ -440,6 +440,82 @@ footer {
   }
 }
 
+// Blog Posts
+.post {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  // Post title and metadata
+  h1 {
+    margin-bottom: 1rem;
+  }
+
+  .author_title {
+    color: lighten($text-color, 20%);
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+  }
+
+  // Content styling
+  .entry {
+    // Images
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 2rem auto;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    // Lists
+    ul, ol {
+      list-style-type: disc;
+      padding-left: 2rem;
+      margin: 1.5rem 0;
+
+      li {
+        margin-bottom: 0.8rem;
+        line-height: 1.6;
+
+        // Nested lists
+        ul, ol {
+          margin: 0.8rem 0;
+          list-style-type: circle;
+        }
+      }
+    }
+
+    // Ordered lists
+    ol {
+      list-style-type: decimal;
+    }
+
+    // Paragraphs
+    p {
+      margin-bottom: 1.5rem;
+      line-height: 1.7;
+    }
+
+    // Code blocks
+    pre {
+      background: $light-gray;
+      padding: 1rem;
+      border-radius: 6px;
+      overflow-x: auto;
+      margin: 1.5rem 0;
+    }
+
+    code {
+      font-family: monospace;
+      background: $light-gray;
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+    }
+  }
+}
+
 @media (max-width: 768px) {
   .container { padding: 0 1.5rem; }
   
@@ -447,16 +523,33 @@ footer {
   h2 { font-size: 1.6rem; }
   h3 { font-size: 1.3rem; }
   
+  .wrapper-masthead {
+    padding: 0.8rem 0;
+  }
+
   .masthead {
     flex-direction: column;
     text-align: center;
-    padding: 1rem;
+    padding: 0.5rem;
+
+    .site-info {
+      margin-bottom: 0.5rem;
+    }
   }
 
   nav {
     flex-wrap: wrap;
     justify-content: center;
-    gap: 1rem;
+    gap: 0.8rem;
+    
+    a {
+      padding: 0.4rem 0.8rem;
+    }
+  }
+
+  .wrapper-main {
+    margin-top: 120px;
+    padding: 1.5rem 0;
   }
 
   .hero {
@@ -539,6 +632,25 @@ footer {
       
       .post-date {
         font-size: 0.85rem;
+      }
+    }
+  }
+
+  .post {
+    padding: 1.5rem;
+
+    .entry {
+      img {
+        margin: 1.5rem auto;
+      }
+
+      ul, ol {
+        padding-left: 1.5rem;
+        margin: 1.2rem 0;
+
+        li {
+          margin-bottom: 0.6rem;
+        }
       }
     }
   }
