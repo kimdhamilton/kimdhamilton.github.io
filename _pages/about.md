@@ -72,8 +72,4 @@ For a complete list of my publications and specifications, visit my [writings pa
 
 I hold an M.S. in Computational and Applied Mathematics from Cornell University and a B.S. in Mathematics from The University of Texas at Austin.
 
-Beyond technology, I serve on the board of the Whidbey Animal Improvement Foundation, spoil my dog, and play cello when I can.
-
-### Connect
-
-[Medium](https://medium.com/@kimdhamilton) | [LinkedIn](https://www.linkedin.com/in/kimdhamilton) | [GitHub](https://github.com/kimdhamilton) | [Blog](https://www.okimsrazor.com/)
+Beyond work, I serve on the board of the [Whidbey Animal Improvement Foundation](https://waifanimals.org/), spoil my dog, and play cello when I can.

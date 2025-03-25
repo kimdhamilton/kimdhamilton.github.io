@@ -5,7 +5,8 @@ permalink: /talks/
 ---
 
 | Conference/Forum | Talk Link | Date | 
-|--|--|--|
+|--|--|--| 
+| [Project Glitch](https://www.projectglitch.xyz/) | [Exploring the Future of Digital Identity](https://www.youtube.com/watch?v=qdAiOU_7hr0) | Feb 2025 | 
 | [Privacy By Design Lab](https://www.youtube.com/@privacybydesignlab1760) | [Privacy Talk with Kim Hamilton Duffy, Executive Director of Decentralized Identity Foundation](https://www.youtube.com/watch?v=N0aX4hJIVfM&t=695s) | Sept 2024 |
 | [Trinsic Podcast](https://www.youtube.com/@Trinsic_ID) | [Kim Hamilton Duffy - From Learning Machine to DIF and the Evolution of Decentralized Identity](https://www.youtube.com/watch?v=k7TeJpXJjko) | Aug 2024 |
 | [Kuppinger Cole](https://www.kuppingercole.com/) | [EIC 2024](https://www.kuppingercole.com/speakers/2695) | Jun 2024 | 
