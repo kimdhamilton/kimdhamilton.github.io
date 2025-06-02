@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Verifiable Credentials through Examples
-categories: [Identity, Verifiable Credentials]
+categories:
+  - Identity
+  - Verifiable Credentials
 image: "../images/post-2022-09-27/dl_mclovin.jpeg"
 ---
 

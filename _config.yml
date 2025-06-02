@@ -22,6 +22,7 @@ footer-links:
   github: kimdhamilton
   linkedin: kimdhamilton
   twitter: kimdhamilton
+  bsky: kimdhamilton.bsky.social
   orcid: 0009-0002-9001-9321
   rss: rss
 
@@ -32,9 +33,10 @@ twitter:
 social:
   name: Kim Hamilton Duffy
   links:
-    - https://twitter.com/kimdhamilton
     - https://www.linkedin.com/in/kimdhamilton
     - https://github.com/kimdhamilton
+    - https://bsky.app/profile/kimdhamilton.bsky.social
+    - https://twitter.com/kimdhamilton
 
 # Site Features
 show_excerpts: true

@@ -34,6 +34,15 @@ p {
   line-height: 1.6;
 }
 
+// Add styles for bold and italic text
+strong, b {
+  font-weight: 700;
+}
+
+em, i {
+  font-style: italic;
+}
+
 a {
   color: $secondary-color;
   text-decoration: none;
@@ -347,6 +356,8 @@ footer {
     &.linkedin:hover { background: #0077b5; }
     &.twitter:hover { background: #1da1f2; }
     &.email:hover { background: #ea4335; }
+    &.bsky:hover { background: #000000; }
+    &.orcid:hover { background: #A6CE39; }
   }
 }
 

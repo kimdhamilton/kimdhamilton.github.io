@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Decentralize What?
-categories: [Identity, Decentralized]
+categories:
+  - Identity
+  - Decentralized
 ---
 
 We're almost ready for a definition of "decentralized identity", but only after unburdening ourselves of some baggage brought in with the word "identity". 

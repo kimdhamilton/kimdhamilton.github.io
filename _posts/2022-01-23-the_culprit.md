@@ -1,7 +1,9 @@
 ---
 layout: post
 title: The Culprit
-categories: Pugs Percy
+categories:
+  - Pugs
+  - Percy
 ---
 
 I'm very behind on the next blog in the series, and it's important that you know why. It's our dog, Percy:

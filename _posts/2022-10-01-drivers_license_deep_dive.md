@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Driver's License Deep Dive
-categories: [Identity, Verifiable Credentials, Driver's License]
+categories:
+  - Identity
+  - Verifiable Credentials
+  - Driver's License
 ---
 
 The previous post requires a belated fast-follow for Driver's License VC modeling fans -- all 3 of you.
@@ -26,7 +29,7 @@ Question: which fields are VC claims and which are VC metadata?
 
 ## Build up to the Big Reveal
 
-Before seeing "the answer", let's consider why informal, pedagological modeling might look different from the actual VC modeling. Some fields printed on a driver's license appear to match VC metadata properties name-wise: "issued", "ISS", and variants look like the VC metadata property "issuanceDate"; "expires", "EXP", and variants look like the VC metadata property "expirationDate"; "ID" looks like a VC metadata "id".
+Before seeing "the answer", let's consider why informal, pedagogical modeling might look different from the actual VC modeling. Some fields printed on a driver's license appear to match VC metadata properties name-wise: "issued", "ISS", and variants look like the VC metadata property "issuanceDate"; "expires", "EXP", and variants look like the VC metadata property "expirationDate"; "ID" looks like a VC metadata "id".
 
 When introducing VCs, the focus is providing intuition behind the "claim" vs "metadata" distinction -- not beating someone over the head with driver's license minutia. Without going that far, your real-world intuition can come from having the not-too-uncommon experience of losing a physical driver's license or updating your address, needing to request a new one, and thinking about which values would be different on the new one. On general, claims would be the fields with values that are clearly about the person (e.g., address) OR fields whose values are unchanged (e.g., expiration date doesn't change on the re-issued one).
 
@@ -82,7 +85,7 @@ me: This is just an educational/informative exercise and not meant as the ideal 
 
 @by_caballero: is this a subtweet, or
 
-me: If so, I guess I’m subtweeting how irritating US drivers licenses are. That will be a recurring theme...
+me: If so, I guess I'm subtweeting how irritating US drivers licenses are. That will be a recurring theme...
 
 ## The World Reacts
 

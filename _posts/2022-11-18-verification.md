@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Verifying the verified accounts
-categories: Reputation, Decentralized Networks
+categories: 
+  - Reputation
+  - Decentralized Networks
 
 ---
 > Twitter has taught us a lot about reputation and identity in a very short amount of time, hence this brief interlude and exploration

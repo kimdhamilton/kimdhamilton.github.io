@@ -4,7 +4,6 @@ permalink: /blog/
 title: Blog Posts
 ---
 
-Very out of date -- updates coming soon!
 
 <div class="external-posts">
   <section >

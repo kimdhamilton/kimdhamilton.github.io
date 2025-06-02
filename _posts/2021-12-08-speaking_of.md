@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Speaking of Decentralized Identity...
-categories: [Identity, Decentralized]
+categories:
+  - Identity
+  - Decentralized
 ---
 
 Decentralized Identity is popping up in exciting places!
