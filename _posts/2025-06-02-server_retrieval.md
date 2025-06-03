@@ -21,7 +21,7 @@ The conclusion from those IIW sessions—which I'll correct subsequently—was t
 
 The reason for this conclusion was this diagram from the ISO specification showing the mDL transaction flow. 
 
-<img src="../images/post-2025-06-02/decision.png" width="600" alt="6.3.2.1 Figure 3" title="6.3.2.1 Figure 3" />
+<img src="../images/post-2025-06-02/decision.png" width="400" alt="6.3.2.1 Figure 3" title="6.3.2.1 Figure 3" />
 
 
 But that conclusion wasn't right; we need to supplement the above diagram with other parts of the spec.
