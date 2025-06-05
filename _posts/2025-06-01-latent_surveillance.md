@@ -104,7 +104,7 @@ The second session had a more guarded dynamic, but the pushback clarified the st
 
 **"But if you're pulled over by police…"** It's true that police already access extensive data during traffic stops. The real concern is that mDLs are being designed for countless everyday uses such as pharmacy pickups and age verification at bars. Do we want those routine interactions to enable surveillance?
 
-**"We just need better policies and regulations."** True, but this misses a crucial point: technical architecture shapes what's possible. Why build surveillance capabilities and hope policy will constrain their use?
+**"We just need better policies and regulations."** Yes, and, this misses a crucial point: technical architecture shapes what's possible. Why build surveillance capabilities and hope policy will constrain their use?
 
 **"At least people are building something."** This pragmatic view drew the sharpest response. Timothy Ruff countered: "You're making a value judgment—valuing expediency over privacy.” The logical next question is, are we comfortable with that trade-off?
 
