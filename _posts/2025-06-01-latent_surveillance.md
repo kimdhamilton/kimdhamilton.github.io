@@ -102,7 +102,7 @@ The second session had a more guarded dynamic, but the pushback clarified the st
 
 **“Don’t you *have* to phone home for real-time status checks?”** This revealed a common misconception that credential verification requires contacting the issuer for the status of a specific credential. But avoiding this is a basic goal of decentralized identity systems—credentials can and should be verifiable without phoning home.
 
-**"But if you're pulled over by police…"** That's a fair exception—police already access extensive data during traffic stops. The real concern is that mDLs are being designed for countless everyday uses such as pharmacy pickups and age verification at bars. Do we want those routine interactions to enable surveillance?
+**"But if you're pulled over by police…"** It's true that police already access extensive data during traffic stops. The real concern is that mDLs are being designed for countless everyday uses such as pharmacy pickups and age verification at bars. Do we want those routine interactions to enable surveillance?
 
 **"We just need better policies and regulations."** True, but this misses a crucial point: technical architecture shapes what's possible. Why build surveillance capabilities and hope policy will constrain their use?
 
