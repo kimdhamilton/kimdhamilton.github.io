@@ -130,9 +130,11 @@ Steve's presentation sparked questions and soul-searching within the digital ide
 
 For my part, it launched a deeper investigation into server retrieval-related implementation requirements. This proved more frustratingly complex than expected, and we'll explore that in Part 2 of this series.
 
-But this also triggered significant reflection: these surveillance capabilities had been hiding in plain sight. Many of us felt we had collectively dropped the ball on a blatant privacy issue, but recognizing that became the first step toward picking it back up. As Timothy Ruff put it, we’re the “last line of defense.” This started uncomfortable conversations leading to hints of real progress. In fact, just three weeks later, AAMVA announced they were updating their guidance to prohibit issuer use of server retrieval—a promising step, though other forms of linkability and tracking risks remain. We'll talk about this in part 3 of the series.
+But this also triggered significant reflection: these surveillance capabilities had been hiding in plain sight. Many of us felt we had collectively dropped the ball on a blatant privacy issue, but recognizing that became the first step toward picking it back up. As Timothy Ruff put it, we’re the “last line of defense.” This started uncomfortable conversations leading to hints of real progress. In fact, just three weeks later, AAMVA announced they were updating their guidance to prohibit issuer use of server retrieval—a promising step, though other forms of linkability and tracking risks remain. We'll talk about this later in the series.
 
 Today's architectural choices are being embedded into tomorrow's identity infrastructure. Technical standards and privacy policies can work together—if we're honest about what we're building and make surveillance-resistant choices from the start.
+
+*Read part 2: [Is Server Retrieval Actually Optional? The Investigation That Revealed More Problems](../server_retrieval)*
 
 ---
 

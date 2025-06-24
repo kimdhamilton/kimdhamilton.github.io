@@ -7,7 +7,7 @@ categories:
 
 ---
 
-*Part 2 of a series on Mobile Driver's License privacy. See [part 1](../latent_surveillance)*
+*Part 2 of a series on Mobile Driver's License privacy. See part 1: [Even the Experts Didn't Know](../latent_surveillance)*
 
 We've been told that the “phone home” server retrieval feature is optional, that no one really implements it, and so we're done, right? Unfortunately not yet. The stakes are high. We're talking about critical digital identity infrastructure, so let's dig in.
 
