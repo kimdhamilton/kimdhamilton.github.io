@@ -108,4 +108,4 @@ Individual policy fixes aren't enough when readers are still implementing server
 
 Since implementers claim no one uses server retrieval anyway, the solution is clear: remove it entirely from the specification and address the remaining privacy issues.
 
-*Next: In Part 3, we'll describe alternatives, touch on remaining linkability challenges, and discuss concrete steps.*
+*Read part 3: [The Privacy Americans Are About to Lose](../american_privacy)*
