@@ -13,7 +13,11 @@ categories:
 
 In the United States, we are accustomed to our digital data being sold, traded, and generally existing outside of our control. Our data protections are fragmented at best, and we're not surprised when companies face no repercussions for handling our data recklessly, resulting in countless data breaches. (On the bright side, I've racked up about $54 this year from compensation related to data breaches, plus multiple simultaneous FREE subscriptions to identity theft monitoring.)
 
-Yet for all this digital recklessness, proving our identity in the physical world has remained surprisingly private. When we flash our plastic driver's license to a bartender, hotel clerk, or security guard, something remarkable happens: no trace is left behind. This is thanks to an analog relic: the humble plastic driver's license. Since Americans use driver's licenses for many activities beyond driving, this accidental privacy protects a large swath of our lives, offering a rare sanctuary in a pervasively-surveilled world. 
+Yet for all this digital recklessness, proving our identity in the physical world has remained surprisingly private. When we flash our plastic driver's license to a bartender, hotel clerk, or security guard, something remarkable happens: no trace is left behind. This is thanks to an analog relic: the humble plastic driver's license. 
+
+To be clear, plastic licenses have their own problems--they're easier to forge, reveal too much information, and pose challenges in online contexts. Digital alternatives could address these legitimate issues.
+
+At the same time, Americans use driver's licenses for many activities beyond driving, so this accidental privacy in many in-person contexts protects a large swath of our lives, offering a rare sanctuary in a pervasively-surveilled world. 
 
 A shift to mDL would affect Americans disproportionately. Our broad use of driver's licenses, plus lack of comprehensive data protection like GDPR, risks comprehensive surveillance–and ultimately, control–of our daily lives. We must be intentional about these tradeoffs; digitization doesn't have to equal surveillance.
 
@@ -77,7 +81,7 @@ While Europe has GDPR's comprehensive protections to help counter corporate surv
 
 ### **Universal Usage Amplifies All Risks**
 
-Since Americans use driver's licenses for everything from mundane use-cases like buying beer to more privacy-critical ones like voting, both corporate and government surveillance become comprehensive life tracking systems. A European who uses a digital driver’s license occasionally faces limited exposure; an American using mDL faces total behavioral monitoring.
+Since Americans use driver's licenses for everything from mundane use cases like buying beer to more privacy-critical ones like voting, both corporate and government surveillance become comprehensive life tracking systems. A European who uses a digital driver’s license occasionally faces limited exposure; an American using mDL faces total behavioral monitoring.
 
 Consider this: count how many times you show your license in the coming month, then imagine each of those interactions being logged by the government, the business you're showing it to, and your own mobile wallet app—potentially making that data available to other vendors as well.
 
