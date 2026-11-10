@@ -5,58 +5,41 @@ layout: default
 <div class="hero">
   <div class="hero-content">
     <h1>{{ site.title }}</h1>
-    <p class="tagline">Building the Future of Digital Identity</p>
-    <p class="description">Decentralized Identity  | Privacy</p>
+    <p class="tagline">{{ site.description }}</p>
+    <p class="description">I’ve built systems for issuing and verifying digital credentials. Now I’m working on how people can delegate tasks to AI agents and stay in control of what those agents do.</p>
     <div class="cta-buttons">
-      <a href="{{ site.baseurl }}/about" class="button primary">About</a>
+      <a href="{{ '/about/' | relative_url }}" class="button primary">About</a>
     </div>
   </div>
 </div>
 
 <section id="featured" class="section">
   <div class="container">
-    <h2>Featured Activities</h2>
+    <h2>Selected Work</h2>
     <div class="featured-grid">
       <div class="featured-item">
-        <h3>The Privacy Americans Are About to Lose</h3>
-        <p class="date">June 24 2025</p>
-        <a href="{{ site.baseurl }}/american_privacy" class="read-more">Read →</a>
+        <h3>Personhood Credentials</h3>
+        <p>How people could prove they are human online while protecting their privacy.</p>
+        <p class="venue">Research paper · 2024</p>
+        <a href="https://arxiv.org/abs/2408.07892" class="read-more">Read the paper →</a>
       </div>
       <div class="featured-item">
-        <h3>Is Server Retrieval Actually Optional? The Investigation That Revealed More Problems</h3>
-        <p class="date">June 2 2025</p>
-        <a href="{{ site.baseurl }}/server_retrieval" class="read-more">Read →</a>
+        <h3>Chains of Trust</h3>
+        <p>A framework for verifying the provenance of digital content in the age of AI.</p>
+        <p class="venue">Oxford Intersections · 2025</p>
+        <a href="https://academic.oup.com/edited-volume/59762/chapter-abstract/508609059" class="read-more">Read the chapter →</a>
       </div>
       <div class="featured-item">
-        <h3>Even the Experts Didn't Know: How a Simple Presentation Revealed mDL's Latent Surveillance Problem</h3>
-        <p class="date">June 1 2025</p>
-        <a href="{{ site.baseurl }}/latent_surveillance" class="read-more">Read →</a>
+        <h3>Is Server Retrieval Actually Optional?</h3>
+        <p>An investigation into how mobile driver's licenses can enable tracking.</p>
+        <p class="venue">Technical analysis · 2025</p>
+        <a href="{{ '/server_retrieval/' | relative_url }}" class="read-more">Read the analysis →</a>
       </div>
       <div class="featured-item">
-        <h3>Personhood credentials: AI and Privacy-Preserving Tools</h3>
-        <p class="venue">Arxiv.org</p>
-        <p class="date">August 2024</p>
-        <a href="https://arxiv.org/pdf/2408.07892" class="read-more">Read →</a>
-      </div>
-      <div class="featured-item">
-        <h3>How the US could sleepwalk into a dystopian digital ID system</h3>
-        <p class="venue">Project Glitch</p>
-        <p class="date">February 2025</p>
-        <a href="https://www.projectglitch.xyz/p/how-the-us-could-sleepwalk-into-a" class="read-more">Read →</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-<section id="about" class="section">
-  <div class="container">
-    <div class="about-content">
-      <div class="about-text">
-        <p>I build digital identity systems that empower individuals and expand access to opportunity. As Executive 
-          Director of the <a href="https://identity.foundation">Decentralized Identity Foundation</a>, I lead a global 
-          community creating the technical foundations for human-centered, privacy-preserving digital interactions.</p>
-    
+        <h3>Blockcerts</h3>
+        <p>Open-source tools for issuing and verifying digital credentials, co-created with the MIT Media Lab.</p>
+        <p class="venue">Open-source project</p>
+        <a href="https://www.blockcerts.org/" class="read-more">Explore Blockcerts →</a>
       </div>
     </div>
   </div>

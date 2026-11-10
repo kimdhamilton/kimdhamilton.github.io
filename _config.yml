@@ -7,14 +7,10 @@ name: Kim Hamilton Duffy
 
 author: Kim Hamilton Duffy
 
-description: Decentralized Identity | Privacy
-
-avatar: /images/kim_headshot-square.jpeg
+description: Digital identity, privacy, and human agency
 
 # Site Settings
 title: Kim Hamilton Duffy
-tagline: Building the Future of Digital Identity
-keywords: decentralized identity, blockchain, standards, digital identity, technology leadership
 
 # Social Links
 footer-links:
@@ -59,8 +55,14 @@ google_analytics: UA-136141237-1
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-# url: http://www.okimsrazor.com
-# enforce_ssl: http://www.okimsrazor.com
+url: https://kimdhamilton.com
+
+# Default preview image for pages without a specific image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/kim_headshot-square.jpeg
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
