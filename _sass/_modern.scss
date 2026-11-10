@@ -264,6 +264,14 @@ nav {
     margin-bottom: 2.5rem;
   }
 
+  h4 {
+    color: $primary-color;
+    font-size: 1.15rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin: 1.5rem 0 0.35rem;
+  }
+
   strong, b {
     font-weight: 600;
     color: $dark-gray;
@@ -547,7 +555,7 @@ footer {
     }
 
     .venue {
-      color: $secondary-color;
+      color: lighten($text-color, 20%);
       font-weight: 500;
       font-size: 0.95rem;
       margin-bottom: 0.4rem;
