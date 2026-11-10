@@ -5,9 +5,11 @@ permalink: /about/
 description: Kim Hamilton Duffy’s work on digital identity, privacy, and human agency spans verifiable credentials, distributed systems, and AI agent security.
 ---
 
-I’m a systems engineer working on digital identity, privacy, and human agency. I’ve built credential systems that let people carry and share proof of their achievements. Now I’m working on how to give AI agents permission to act on someone’s behalf for a specific task and make sure the system enforces those limits.
+My work centers on digital identity, privacy, and human agency. I’ve built credential systems that help people carry and share proof of their achievements.
 
-I built core .NET libraries at Microsoft and distributed systems at Expedia. I went on to build digital credential infrastructure at MIT and lead the Decentralized Identity Foundation, where I worked with a global community on open identity standards.
+Today, I’m focused on how AI agents can follow someone’s intent, stay within the permissions they’ve been given, and leave a clear record of what they did, even when they delegate work to other agents.
+
+I’ve built core .NET libraries at Microsoft, distributed systems at Expedia, and digital credential infrastructure at MIT. As executive director of the Decentralized Identity Foundation, I worked with a global community to advance open identity standards.
 
 ### Advisory Work
 
