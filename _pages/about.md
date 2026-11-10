@@ -5,7 +5,7 @@ permalink: /about/
 description: Kim Hamilton Duffy’s work on digital identity, privacy, and human agency spans verifiable credentials, distributed systems, and AI agent security.
 ---
 
-My work centers on digital identity, privacy, and human agency. I’ve built credential systems that help people carry and share proof of their achievements.
+I’ve built credential systems that let people carry and share records of their achievements.
 
 Today, I’m focused on how AI agents can follow someone’s intent, stay within the permissions they’ve been given, and leave a clear record of what they did, even when they delegate work to other agents.
 
@@ -19,7 +19,7 @@ I co-created [Blockcerts](https://www.blockcerts.org/) with the MIT Media Lab an
 
 ### MIT Digital Credentials Consortium
 
-As Lead Architect for MIT's [Digital Credentials Consortium](https://digitalcredentials.mit.edu/), I designed infrastructure enabling learners to control and share their academic achievements across institutions. Key outputs included the [Learner Credential Wallet Specification](https://digitalcredentials.mit.edu/docs/Learner-Credential-Wallet-Specification-May-2021.pdf) (with the US Department of Education) and [Building the Digital Credential Infrastructure for the Future](https://digitalcredentials.mit.edu/docs/white-paper-building-digital-credential-infrastructure-future.pdf).
+As Lead Architect for MIT's [Digital Credentials Consortium](https://digitalcredentials.mit.edu/), I designed infrastructure that lets learners control and share their academic achievements across institutions. Key outputs included the [Learner Credential Wallet Specification](https://digitalcredentials.mit.edu/docs/Learner-Credential-Wallet-Specification-May-2021.pdf) (with the US Department of Education) and [Building the Digital Credential Infrastructure for the Future](https://digitalcredentials.mit.edu/docs/white-paper-building-digital-credential-infrastructure-future.pdf).
 
 ### Centre Consortium
 
@@ -27,7 +27,7 @@ I served as Centre Consortium’s Director of Identity and Standards for USDC. I
 
 ### Digital Identity Standards
 
-I chaired the World Economic Forum's Digital Identity Technical Working Group, leading a multi-stakeholder effort that produced the [Reimagining Digital ID](https://www3.weforum.org/docs/WEF_Reimagining_Digital_ID_2023.pdf) framework.
+I chaired the World Economic Forum’s Digital Identity Technical Working Group, which produced the [Reimagining Digital ID](https://www3.weforum.org/docs/WEF_Reimagining_Digital_ID_2023.pdf) framework.
 
 ## Selected Publications
 
