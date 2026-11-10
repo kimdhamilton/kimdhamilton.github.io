@@ -17,6 +17,7 @@ description: Selected research, standards, and essays by Kim Hamilton Duffy on p
 - [Reimagining Digital ID](https://www3.weforum.org/docs/WEF_Reimagining_Digital_ID_2023.pdf) · World Economic Forum, 2023
 - [Learner Credential Wallet Specification](https://digitalcredentials.mit.edu/docs/Learner-Credential-Wallet-Specification-May-2021.pdf) · MIT Digital Credentials Consortium and U.S. Department of Education, 2021
 - [Building the Digital Credential Infrastructure for the Future](https://digitalcredentials.mit.edu/docs/white-paper-building-digital-credential-infrastructure-future.pdf) · MIT Digital Credentials Consortium, 2020
+- [Applying Self-Sovereign Identity Principles to Interoperable Learning Records](https://www.t3networkhub.org/resources/applying-self-sovereign-identity-principles-to-interoperable-learning-records-principles-challenges-and-community-guidance-v2) · T3 Innovation Network, 2020
 - [Modeling Educational Verifiable Credentials](https://w3c-ccg.github.io/vc-ed-models/) · W3C Credentials Community Group
 - [BTCR DID Method](https://w3c-ccg.github.io/didm-btcr/) · W3C Credentials Community Group draft report
 - [Open Badges are Verifiable Credentials](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/open-badges-are-verifiable-credentials.pdf) · Rebooting the Web of Trust, 2018
